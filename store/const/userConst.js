@@ -1,0 +1,1 @@
+export const SET_USER_KEY = 'user/SET_USER_KEY'
